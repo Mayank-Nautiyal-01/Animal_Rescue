@@ -7,8 +7,6 @@ Animal Rescue is a platform designed to assist in the rescue, treatment, and ado
 - **Distress Reporting:** Users can report injured or stray animals by providing details and location.
 - **NGO Collaboration:** Connects with local NGOs and rescue teams for efficient assistance.
 - **Image Uploads:** Users can upload images of distressed animals for better identification.
-- **Donation System:** Enables donations for the treatment and care of rescued animals.
-- **Adoption Portal:** Provides an option for users to adopt rescued animals in need of a home.
 - **Notification System:** Sends updates and alerts about reported cases and rescue actions.
 
 ## Tech Stack
